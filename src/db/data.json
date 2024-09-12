@@ -48,7 +48,7 @@
       "day": 3,
       "eng": "school",
       "kor": "학교",
-      "isDone": true
+      "isDone": false
     },
     {
       "id": "ca3b",
@@ -70,6 +70,13 @@
       "eng": "apple",
       "kor": "사과",
       "isDone": true
+    },
+    {
+      "id": "91c9",
+      "day": "5",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
     }
   ]
 }
