@@ -17,12 +17,8 @@
       "day": 4
     },
     {
-      "id": "53f8",
+      "id": "8b09",
       "day": 5
-    },
-    {
-      "id": "c78b",
-      "day": 6
     }
   ],
   "words": [
@@ -74,20 +70,6 @@
       "eng": "apple",
       "kor": "사과",
       "isDone": true
-    },
-    {
-      "id": "aea1",
-      "day": "5",
-      "eng": "apple",
-      "kor": "사과",
-      "isDone": true
-    },
-    {
-      "id": "4a17",
-      "day": "6",
-      "eng": "pie",
-      "kor": "파이",
-      "isDone": false
     }
   ]
 }

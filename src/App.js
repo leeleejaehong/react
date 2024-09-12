@@ -5,6 +5,7 @@ import Header from "./component/Header";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import CreateWord from "./component/CreateWord";
 import CreateDay from "./component/CreateDay";
+// json-server --watch .\src\db\data.json --port 3001
 function App() {
   return (
     <BrowserRouter>
